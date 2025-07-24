@@ -17,7 +17,8 @@
 ---
 
 ## 🔧 Requirements
-
+python 3.10 
+Upper version not Supported
 Install required packages with:
 
 ```bash
