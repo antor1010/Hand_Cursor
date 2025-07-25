@@ -26,13 +26,22 @@ pip install opencv-python mediapipe pyautogui
 
 ```
 
-##▶️ How to Run
+## If you have python version 3.10 upper 
+follow those steps for running this innovative project
+
+```
+py -3.10 -m venv venv
+venv\Scripts\activate
+```
+
+## ▶️ How to Run
 #Clone the repo:
 ```bash
 git clone https://github.com/antor1010/Hand_Cursor.git
 cd Hand_Cursor
 ```
-##▶️ Run the script:
+## ▶️ Run the script:
 ```
 python hand_cursor.py
 ```
+
