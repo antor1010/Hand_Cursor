@@ -31,13 +31,17 @@ follow those steps for running this innovative project
 
 ```
 py -3.10 -m venv venv
+```
+```
 venv\Scripts\activate
 ```
 
 ## ▶️ How to Run
-#Clone the repo:
+Clone the repo:
 ```bash
 git clone https://github.com/antor1010/Hand_Cursor.git
+```
+```
 cd Hand_Cursor
 ```
 ## ▶️ Run the script:
