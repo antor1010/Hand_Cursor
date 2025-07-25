@@ -24,6 +24,8 @@ Install required packages with:
 ```bash
 pip install opencv-python mediapipe pyautogui
 
+```
+
 ##▶️ How to Run
 #Clone the repo:
 
